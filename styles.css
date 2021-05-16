@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.darkGrey{
+    background-color: #ccc;
+}
+
+/* .carousel-inner img {
+    width: 50%;
+    /* height: 20% !important; */
+  /* } */
+
+.section-6{
+    background-color: rgb(70, 115, 136);
+}
+
+.section-7{
+    background-color: #1f365c;
+}
